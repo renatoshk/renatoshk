@@ -41,7 +41,7 @@ An all-in-one restaurant ordering and growth platform with **0% commission**. Bu
 
 ---
 
-### 🌍 [Alba Smart Link](https://aslconnect.me) — Tourism & Diaspora Platform for Albania
+### 🌍 [Albania Magic](https://albaniamagic.com) — Tourism & Diaspora Platform for Albania
 > *Connecting Albania's diaspora to home.*
 
 A multi-functional platform serving tourism, local businesses, and the Albanian diaspora worldwide.
@@ -108,7 +108,7 @@ A multi-functional platform serving tourism, local businesses, and the Albanian 
 - 📧 shkulakurenato@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/renato-shkulaku/)
 - 🌐 [direct-dine.com](https://www.direct-dine.com)
-- 🌍 [aslconnect.me](https://aslconnect.me)
+- 🌍 [albaniamagic.com](https://albaniamagic.com)
 - 📞 +355 695 408 391 (WhatsApp)
 
 ---
